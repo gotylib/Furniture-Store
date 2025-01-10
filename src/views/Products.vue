@@ -33,49 +33,49 @@
       return {
         products: [
           {
-            image: '@/assets/product-1.png',
+            image: new URL('@/assets/product-1.png', import.meta.url).href, 
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '@/assets/product-2.png',
+            image: new URL('@/assets/product-2.png', import.meta.url).href,
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '@/assets/product-3.png',
+            image: new URL('@/assets/product-3.png', import.meta.url).href,
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '@/assets/product-4.png',
+            image: new URL('@/assets/product-4.png', import.meta.url).href,
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '@/assets/product-5.png',
+            image: new URL('@/assets/product-5.png', import.meta.url).href,
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '@/assets/product-6.png',
+            image: new URL('@/assets/product-6.png', import.meta.url).href,
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '@/assets/product-7.png',
+            image: new URL('@/assets/product-7.png', import.meta.url).href,
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '@/assets/product-8.png',
+            image: new URL('@/assets/product-8.png', import.meta.url).href,
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
