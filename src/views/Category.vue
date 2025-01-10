@@ -3,23 +3,23 @@
         <h1 class="title"> <span>наши категории</span> <a href="#">посмотреть все >></a> </h1>  
         <div class="box-container">  
             <a href="#" class="box">  
-                <img src="/src/image/icon-1.png" alt="">  
+                <img src="/src/assets/icon-1.png" alt="">  
                 <h3>диван для дома</h3>  
             </a>  
             <a href="#" class="box">  
-                <img src="/src/image/icon-2.png" alt="">  
+                <img src="/src/assets/icon-2.png" alt="">  
                 <h3>рабочий стол</h3>  
             </a>  
             <a href="#" class="box">  
-                <img src="/src/image/icon-3.png" alt="">  
+                <img src="/src/assets/icon-3.png" alt="">  
                 <h3>угловой стол</h3>  
             </a>  
             <a href="#" class="box">  
-                <img src="/src/image/icon-4.png" alt="">  
+                <img src="/src/assets/icon-4.png" alt="">  
                 <h3>офисный стул</h3>  
             </a>  
             <a href="#" class="box">  
-                <img src="/src/image/icon-5.png" alt="">  
+                <img src="/src/assets/icon-5.png" alt="">  
                 <h3>новый шкаф</h3>  
             </a>  
         </div>  
