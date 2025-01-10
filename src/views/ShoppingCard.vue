@@ -3,7 +3,7 @@
  
     <div class="box"> 
         <i class="ri-close-line close-icon"></i> 
-        <img src="/assets/cart-img-1.jpg" alt=""> 
+        <img src="@/assets/cart-img-1.jpg" alt=""> 
         <div class="content"> 
             <h3>современная мебель</h3> 
             <span class="quantity"> 1 </span> 
@@ -13,7 +13,7 @@
     </div> 
     <div class="box"> 
         <i class="ri-close-line close-icon"></i> 
-        <img src="/assets/cart-img-2.jpg" alt=""> 
+        <img src="@/assets/cart-img-2.jpg" alt=""> 
         <div class="content"> 
             <h3>современная мебель</h3> 
             <span class="quantity"> 1 </span> 
@@ -23,7 +23,7 @@
     </div> 
     <div class="box"> 
         <i class="ri-close-line close-icon"></i> 
-        <img src="/assets/cart-img-3.jpg" alt=""> 
+        <img src="@/assets/cart-img-3.jpg" alt=""> 
         <div class="content"> 
             <h3>современная мебель</h3> 
             <span class="quantity"> 1 </span> 
@@ -33,7 +33,7 @@
     </div> 
     <div class="box"> 
         <i class="ri-close-line close-icon"></i> 
-        <img src="/assets/cart-img-4.jpg" alt=""> 
+        <img src="@/assets/cart-img-4.jpg" alt=""> 
         <div class="content"> 
             <h3>современная мебель</h3> 
             <span class="quantity"> 1 </span> 

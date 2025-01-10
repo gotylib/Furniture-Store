@@ -33,13 +33,13 @@ export default {
                     subtitle: 'новые поступления',
                     title: 'современное кресло',
                     description: 'Откройте для себя идеальное сочетание стиля и комфорта в нашем современном кресле.',
-                    image: '/assets/home-img-1.png'
+                    image: '@/assets/home-img-1.png'
                 },
                 {
                     subtitle: 'новые поступления',
                     title: 'классическое кресло',
                     description: 'Наслаждайтесь комфортом и элегантностью нашего классического кресла.',
-                    image: '/assets/home-img-2.png'
+                    image: '@@/assets/home-img-2.png'
                 },
                 // Добавьте больше слайдов по мере необходимости
             ]
