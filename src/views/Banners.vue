@@ -1,7 +1,7 @@
 <template>
     <section class="banner-container"> 
         <div class="banner"> 
-            <img src="/src/assets/banner-1.jpg" alt=""> 
+            <img src="/assets/banner-1.jpg" alt=""> 
             <div class="content"> 
                 <span>ограниченное предложение</span> 
                 <h3>скидка до 50%</h3> 
@@ -9,7 +9,7 @@
             </div> 
         </div> 
         <div class="banner"> 
-            <img src="/src/assets/banner-2.jpg" alt=""> 
+            <img src="/assets/banner-2.jpg" alt=""> 
             <div class="content"> 
                 <span>ограниченное предложение</span> 
                 <h3>скидка до 50%</h3> 
@@ -17,7 +17,7 @@
             </div> 
         </div> 
         <div class="banner"> 
-            <img src="/src/assets/banner-3.jpg" alt=""> 
+            <img src="/assets/banner-3.jpg" alt=""> 
             <div class="content"> 
                 <span>ограниченное предложение</span> 
                 <h3>скидка до 50%</h3> 

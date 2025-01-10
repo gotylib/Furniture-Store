@@ -33,49 +33,49 @@
       return {
         products: [
           {
-            image: '/src/assets/product-1.png',
+            image: '/assets/product-1.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '/src/assets/product-2.png',
+            image: '/assets/product-2.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '/src/assets/product-3.png',
+            image: '/assets/product-3.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '/src/assets/product-4.png',
+            image: '/assets/product-4.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '/src/assets/product-5.png',
+            image: '/assets/product-5.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '/src/assets/product-6.png',
+            image: '/assets/product-6.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '/src/assets/product-7.png',
+            image: '/assets/product-7.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50
           },
           {
-            image: '/src/assets/product-8.png',
+            image: '/assets/product-8.png',
             price: '₽14000.00',
             name: 'современная мебель',
             reviews: 50

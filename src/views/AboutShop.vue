@@ -1,7 +1,7 @@
 <template>
     <section class="about">  
     <div class="image">  
-        <img src="/src/assets/about-img.jpg" alt="">  
+        <img src="/assets/about-img.jpg" alt="">  
     </div>  
     <div class="content">  
         <span>добро пожаловать в наш магазин</span>  
